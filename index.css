@@ -53,6 +53,7 @@ h1{
     cursor: text;
     border: 1px solid #3d3d3d;
     width: 100%;
+    color:white;
 }
 .icon{
     border-top-right-radius: 25px;
